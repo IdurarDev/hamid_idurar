@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          youpi
+          Bonjour le monde
         </a>
       </header>
     </div>
